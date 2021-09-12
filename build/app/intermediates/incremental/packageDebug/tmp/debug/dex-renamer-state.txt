@@ -1,0 +1,4 @@
+#Mon Sep 06 20:15:05 GST 2021
+base.0=/home/yosufmh/Desktop/FYP/PracticeProjects/Demo/demo_fyp/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
